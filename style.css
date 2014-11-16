@@ -51,12 +51,13 @@ div.section {
 	padding: 1em;
 	margin-bottom: 0;
 	text-align: justify;
+	background: #EBECEC;
 
 }
 
 /* If we want the divs with ids plan and more to look the same, we can put them together */
 #plan, #more {
-	background:#000080;
+	background: #99D6FF;
 	color: white;
 	font: 'Source Sans Pro',Arial, Sans-Serif;
 	background-image: none;  /* replace none with url('image-url') to set a background image  */
@@ -70,13 +71,13 @@ div.section {
 /* This alters the appearance of the div with id="signup". */
 #poem {
 	height: 110px;
-	background: white;
+	background: #EBECEC;
 	text-align: center;
 }
 
 /* This alters the appearance of the div with id="whoweare" */
 #whoweare {
-	background: white;
+	background: #EBECEC;
 	color: black; 
 }
 
